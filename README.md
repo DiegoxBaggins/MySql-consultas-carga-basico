@@ -1,1 +1,1 @@
-# IPC2-dic-2020-Prac2
+Práctica base de datos en MySql, consultas y llenado de datos
